@@ -1,0 +1,80 @@
+
+------------------ Concluzie -----------------------
+Lungimea drumului este: 8==========================================Drumul de cost minim:
+[
+Vasul1 4/5 rosu, 
+Vasul2 2/2 galben, 
+Vasul3 0/3 fara apa colorata, 
+Vasul4 3/7 albastru, 
+Vasul5 0/1 fara apa colorata, 
+Vasul6 3/4 rosu] 
+
+----Am turnat din vasul 4  1 litri de apa de culoare albastru in vasul 6----> 
+
+[
+Vasul1 4/5 rosu, 
+Vasul2 2/2 galben, 
+Vasul3 0/3 fara apa colorata, 
+Vasul4 2/7 albastru, 
+Vasul5 0/1 fara apa colorata, 
+Vasul6 4/4 mov] 
+
+----Am turnat din vasul 2  2 litri de apa de culoare galben in vasul 4----> 
+
+[
+Vasul1 4/5 rosu, 
+Vasul2 0/2 fara apa colorata, 
+Vasul3 0/3 fara apa colorata, 
+Vasul4 4/7 verde, 
+Vasul5 0/1 fara apa colorata, 
+Vasul6 4/4 mov] 
+
+----Am turnat din vasul 4  1 litri de apa de culoare verde in vasul 5----> 
+
+[
+Vasul1 4/5 rosu, 
+Vasul2 0/2 fara apa colorata, 
+Vasul3 0/3 fara apa colorata, 
+Vasul4 3/7 verde, 
+Vasul5 1/1 verde, 
+Vasul6 4/4 mov] 
+
+----Am turnat din vasul 5  1 litri de apa de culoare verde in vasul 2----> 
+
+[
+Vasul1 4/5 rosu, 
+Vasul2 1/2 verde, 
+Vasul3 0/3 fara apa colorata, 
+Vasul4 3/7 verde, 
+Vasul5 0/1 fara apa colorata, 
+Vasul6 4/4 mov] 
+
+----Am turnat din vasul 6  1 litri de apa de culoare mov in vasul 2----> 
+
+[
+Vasul1 4/5 rosu, 
+Vasul2 2/2 maro, 
+Vasul3 0/3 fara apa colorata, 
+Vasul4 3/7 verde, 
+Vasul5 0/1 fara apa colorata, 
+Vasul6 3/4 mov] 
+
+----Am turnat din vasul 2  1 litri de apa de culoare maro in vasul 5----> 
+
+[
+Vasul1 4/5 rosu, 
+Vasul2 1/2 maro, 
+Vasul3 0/3 fara apa colorata, 
+Vasul4 3/7 verde, 
+Vasul5 1/1 maro, 
+Vasul6 3/4 mov] 
+
+----Am turnat din vasul 4  1 litri de apa de culoare verde in vasul 2----> 
+
+[
+Vasul1 4/5 rosu, 
+Vasul2 2/2 maro, 
+Vasul3 0/3 fara apa colorata, 
+Vasul4 2/7 verde, 
+Vasul5 1/1 maro, 
+Vasul6 3/4 mov]

@@ -1,0 +1,32 @@
+
+------------------ Concluzie -----------------------
+Drumul de cost minim:
+[
+Vasul1 4/5 rosu, 
+Vasul2 4/7 albastru, 
+Vasul3 0/3 fara apa colorata, 
+Vasul4 1/2 galben] 
+
+----Am turnat din vasul 2  1 litri de apa de culoare albastru in vasul 4----> 
+
+[
+Vasul1 4/5 rosu, 
+Vasul2 3/7 albastru, 
+Vasul3 0/3 fara apa colorata, 
+Vasul4 2/2 verde] 
+
+----Am turnat din vasul 1  3 litri de apa de culoare rosu in vasul 3----> 
+
+[
+Vasul1 1/5 rosu, 
+Vasul2 3/7 albastru, 
+Vasul3 3/3 rosu, 
+Vasul4 2/2 verde] 
+
+----Am turnat din vasul 1  1 litri de apa de culoare rosu in vasul 2----> 
+
+[
+Vasul1 0/5 fara apa colorata, 
+Vasul2 4/7 mov, 
+Vasul3 3/3 rosu, 
+Vasul4 2/2 verde]

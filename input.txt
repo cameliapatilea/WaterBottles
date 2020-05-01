@@ -1,0 +1,13 @@
+rosu albastru mov
+albastru galben verde
+mov verde maro
+stare_init
+1 5 4 rosu
+2 2 2 galben
+3 3 0
+4 7 3 albastru
+5 1 0
+6 4 3 rosu
+stare_fin
+3 mov
+2 verde
